@@ -8,30 +8,30 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: 米米米米米                         # the main title
+title: 汪某某事件                         # the main title
 
-tagline: 个人博客  # it will display as the sub-title
+tagline: 记录真实信息  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Welcome to my Blog.
   Here is Mi's Blog.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://mixuanda.github.io'
+url: 'https://wangzhaohansj.github.io'
 
-author: mixuanda                  # change to your full name
+author: wangzhaohan                  # change to your full name
 
 avatar: /assets/img/sample/touxiang.jpg   # support internet resources
 
 github:
-  username: mixuanda           # change to your github username
+  username: wangzhaohan           # change to your github username
 #
 #twitter:
 #  username: nothing            # change to your twitter username
 
 social:
 #  name: mixuanda                 # it will shows as the copyright owner in Footer
-  email: mixuanda@outlook.com             # change to your email address
+  email: wangzhaohan@lareview.cf             # change to your email address
 #  links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
