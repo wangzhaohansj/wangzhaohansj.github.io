@@ -6,6 +6,8 @@
   MIT License
 */
 
+{% include_relative _commons/mima.js %}
+
 {% include_relative _commons.js %}
 
 {% include_relative _utils/timeago.js %}
