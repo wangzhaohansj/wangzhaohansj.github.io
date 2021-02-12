@@ -6,7 +6,7 @@
   MIT License
 */
 
-{% include_relative _commons/mima.js %}
+
 
 {% include_relative _commons.js %}
 
