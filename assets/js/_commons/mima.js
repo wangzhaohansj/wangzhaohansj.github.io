@@ -7,6 +7,7 @@ history.go(-1);
 if (pass1 == "688") {
 alert('密码正确，准予进入！不过过路费还是要给的。2毛！');
 break;
+
 }
 testV+=1;
 var pass1 =
