@@ -1,20 +1,9 @@
 
 function password() {
-var testV = 1;
-var pass1 = prompt('请输入密码:','');
-while (testV < 3000) {
-if (!pass1)
-history.go(-1);
-if (pass1 == "shenghuakonglong") {
-alert('密码正确');
-break;
+var password="";
+password=prompt('请输入密码 (本网站需输入密码才可进入):','');
+if (password != 'mima')   {
+  alert("密码不正确,无法进入本站!!");
+      window.opener=null; window.close();
+    }  
 }
-testV+=1;
-var pass1 =
-prompt('密码不正确');
-}
-if (pass1!="password" & testV ==3)
-history.go(-1);
-return " ";
-}
-document.write(password());
